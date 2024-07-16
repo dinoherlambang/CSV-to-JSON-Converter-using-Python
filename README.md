@@ -45,7 +45,7 @@ options:
 # Examples
 ## Convert a Single CSV File
 python csv-to-json-converter.py sample.csv
- or
+<br>or<br>
 python csv-to-json-converter.py path/to/file.csv -o path/to/output
 
 ## Convert All CSV Files in a Directory
