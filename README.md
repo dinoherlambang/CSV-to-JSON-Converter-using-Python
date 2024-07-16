@@ -31,7 +31,7 @@ Convert CSV files to JSON
 positional arguments:
   path                  File or directory path
 
-options:
+```options:
   -h, --help            show this help message and exit
   -o OUTPUT, --output OUTPUT
                         Output directory for JSON files
@@ -41,7 +41,7 @@ options:
   -e ENCODING, --encoding ENCODING
                         Specify input CSV file encoding (default: auto-detect)
   --compact             Output compact JSON (not pretty-printed)
-
+```
 # Examples
 ## Convert a Single CSV File
 python csv-to-json-converter.py sample.csv
