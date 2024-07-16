@@ -69,4 +69,4 @@ sample.json
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-This script was created by [_dinoherlambang_](https://instagram.com/_dinoherlambang_/)
+Created by [_dinoherlambang_](https://instagram.com/_dinoherlambang_/)
