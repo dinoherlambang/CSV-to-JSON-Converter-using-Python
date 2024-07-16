@@ -24,7 +24,7 @@ pip install chardet
 
 ## Command Line -h or help Arguments
 python .\csv-to-json-converter.py -h
-usage: csv-to-json-converter.py [-h] [-o OUTPUT] [-v] [-r] [--no-overwrite] [-e ENCODING] [--compact] path
+<br>usage: csv-to-json-converter.py [-h] [-o OUTPUT] [-v] [-r] [--no-overwrite] [-e ENCODING] [--compact] path
 
 Convert CSV files to JSON
 
@@ -69,4 +69,4 @@ sample.json
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-This script was created by _dinoherlambang_.
+This script was created by [_dinoherlambang_](https://instagram.com/_dinoherlambang_/)
