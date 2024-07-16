@@ -16,7 +16,7 @@ This is a Python script that converts CSV files to JSON format. It supports auto
 - Python 3.x
 - `chardet` library
 
-## You can install the required library using pip:
+## You have to install required library for automatic file extension or encode detection using pip:
 
 pip install chardet
 
