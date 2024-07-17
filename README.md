@@ -62,7 +62,7 @@ python csv-to-json-converter.py path/to/file.csv -o path/to/output -e utf-8 --co
 
 ## sample file and result
 sample.csv 
-sample.json
+<br>sample.json
 
 
 ## License
